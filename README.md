@@ -18,7 +18,7 @@ If user try to login with credential that is not present in database it ask for 
 
 ![image](https://github.com/hanzalaghayasabbasi/Database-Project/assets/123712590/14d5dd71-26c0-4c90-82ea-2a0d7932fa1d)
 
-Registering the user
+Registrating the user
 
 ![image](https://github.com/hanzalaghayasabbasi/Database-Project/assets/123712590/66ddc8b2-a584-44c9-a2ca-8ebd5a44e2b6)
 
@@ -32,7 +32,8 @@ As we can see, the user we have registered is now in the database, and the passw
 
 Now we will login with the user which we have regiter.
 
-![image](https://github.com/hanzalaghayasabbasi/Database-Project/assets/123712590/fd0da759-b466-4ac4-bc2f-ac2de9844a4e)
+![image](https://github.com/hanzalaghayasabbasi/Database-Project/assets/123712590/7d452ad5-c900-4bba-86ef-a3f91620f468)
+
 
 After Succeffully login with credential it will redirect us to the Cyber Awareness Page.
 
