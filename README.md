@@ -1,14 +1,14 @@
-# Database-Project
-This is my Database lab Project in the University
-<b> Features: </b>
-1 Strong Password Policy on the Login and SignUp Pages.
-Password Policy: Requires a minimum of 10 characters, including at least 2 special characters and 1 number.
-2 Storing Three Types of Logs: Failure, Success, and Both.
-3 Using Parameterized Queries to Prevent SQL Injection Attacks.
-4 Using bcrypt with a salt factor of 10 for storing Passwords in the Database.
-5 Continuous Monitoring of Login in the Console.
+# Database-Project <br>
+This is my Database lab Project in the University<br>
+<b> Features: </b> <br>
+1 Strong Password Policy on the Login and SignUp Pages.<br>
+Password Policy: Requires a minimum of 10 characters, including at least 2 special characters and 1 number.<br>
+2 Storing Three Types of Logs: Failure, Success, and Both.<br>
+3 Using Parameterized Queries to Prevent SQL Injection Attacks.<br>
+4 Using bcrypt with a salt factor of 10 for storing Passwords in the Database.<br>
+5 Continuous Monitoring of Login in the Console.<br>
 
-Note: I am using Microsoft Workbench as a database. Integrating it with Express is difficult because I did not find any help on how to configure Express to work with Workbench. ChatGPT helped me a lot in this task.
+Note: I am using Microsoft Workbench as a database. Integrating it with Express is difficult because I did not find any help on how to configure Express to work with Workbench. ChatGPT helped me a lot in this task.<br>
 
 Below is our Login Portal
 
