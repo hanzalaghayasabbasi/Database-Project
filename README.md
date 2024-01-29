@@ -1,4 +1,4 @@
-![image](https://github.com/hanzalaghayasabbasi/Database-Project/assets/123712590/187ee5ca-1a4a-45db-ae37-05209fb26eed)# Database-Project
+# Database-Project
 This is my Database lab Project in the University
 <b> Features: </b>
 1 Strong Password Policy on the Login and SignUp Pages.
