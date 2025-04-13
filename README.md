@@ -35,7 +35,7 @@ Now we will login with the user which we have regiter.
 ![image](https://github.com/hanzalaghayasabbasi/Database-Project/assets/123712590/7d452ad5-c900-4bba-86ef-a3f91620f468)
 
 
-After Succeffully login with credential it will redirect us to the Cyber Awareness Page.
+After Successfully login with credential it will redirect us to the Cyber Awareness Page.
 
 ![image](https://github.com/hanzalaghayasabbasi/Database-Project/assets/123712590/e3397e7a-8fd6-434e-84ff-e8580421853f)
 
